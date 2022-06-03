@@ -19,6 +19,13 @@
 - Garage for company vehicle for deliveries. (need good vehicle and livery)
 
 
+## QB-Core>Shared>items.lua
+	['caramelojoint'] 				 = {['name'] = 'caramelojoint', 			  	['label'] = 'Caramelo Joint', 			['weight'] = 500, 		['type'] = 'item', 		['image'] = 'caramelojoint.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'THC: 16% | CBD: 0%'},
+	['apeshitjoint'] 				 = {['name'] = 'apeshitjoint', 			  	  	['label'] = 'Ape Shit Joint', 			['weight'] = 500, 		['type'] = 'item', 		['image'] = 'apeshitjoint.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'THC: 19% | CBD: 0%'},
+	['medicalmassjoint'] 			 = {['name'] = 'medicalmassjoint', 			  	['label'] = 'Medical Joint', 			['weight'] = 500, 		['type'] = 'item', 		['image'] = 'medicalmassjoint.png', 	['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'THC: 6% | CBD: 9%'},
+	['holyghostjoint'] 				 = {['name'] = 'holyghostjoint', 			  	['label'] = 'Holy Ghost Joint', 		['weight'] = 500, 		['type'] = 'item', 		['image'] = 'holyghostjoint.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'THC: 21% | CBD: 0%'},
+	['hazeheavenjoint'] 			 = {['name'] = 'hazeheavenjoint', 			  	['label'] = 'Haze Heaven Joint', 		['weight'] = 500, 		['type'] = 'item', 		['image'] = 'hazeheavenjoint.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'THC: 23% | CBD: 5%'},
+
 ## Dependencies :
 
 [MLO] Interior Legion Weed Clinic - https://www.gta5-mods.com/maps/mlo-legion-weed-clinic
