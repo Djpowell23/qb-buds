@@ -31,6 +31,9 @@
 	['medicalmassbud'] 			 	 = {['name'] = 'medicalmassbud', 			 	['label'] = 'Medical Mass Bud', 		['weight'] = 2000, 		['type'] = 'item', 		['image'] = 'medicalmassbud.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'A sticky nug of Medical Mass'},
 	['holyghostbud'] 				 = {['name'] = 'holyghostbud', 			 		['label'] = 'Holy Ghost Bud', 			['weight'] = 2000, 		['type'] = 'item', 		['image'] = 'holyghostbud.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'A sticky nug of Holy Ghost'},
 	['hazeheavenbud'] 				 = {['name'] = 'hazeheavenbud', 			 	['label'] = 'Haze Heaven Bud', 			['weight'] = 2000, 		['type'] = 'item', 		['image'] = 'hazeheavenbud.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'A sticky nug of Haze Heaven'},
+	['weedbrownie'] 			 	 = {['name'] = 'weedbrownie', 			  		['label'] = 'Buds Brownie', 			['weight'] = 500, 		['type'] = 'item', 		['image'] = 'weedbrownie.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'Chocolate infused with tasty cannabis'},
+	['weedgummy'] 			 	 	 = {['name'] = 'weedgummy', 			  		['label'] = 'Buds Gummy', 				['weight'] = 500, 		['type'] = 'item', 		['image'] = 'weedgummy.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'Gummy Buddy from Best Buds'},
+
 
 ## Dependencies :
 
